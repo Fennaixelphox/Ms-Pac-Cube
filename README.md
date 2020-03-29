@@ -16,6 +16,14 @@ To do list:
 
 -add music
 
--implement more mazes
+-implement more mazes (done)
 
 -unfuck the controls
+
+# Critic reviews
+
+"I am terrified and offended by this game and I want my mommy" --Joe Q. Blow
+
+"10/10 best game" --Nobody
+
+"Phox what the fuck are you doing in my house get out" --Someone else
